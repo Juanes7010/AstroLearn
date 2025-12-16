@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\assets\\gazeselector\\scripts\\gazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|solutionrelative:assets\\gazeselector\\scripts\\gazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\assets\\scripts\\uielementxr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uielementxr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|c:\\users\\juane\\documents\\unity\\p\\respaldo prueba\\assets\\scripts\\cambiarescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiarescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\assets\\scripts\\camerapointermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055380B5-0733-3AE1-95BB-5343C3B7DCB2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerapointermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GazeManager.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\GazeSelector\\Scripts\\GazeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GazeSelector\\Scripts\\GazeManager.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\GazeSelector\\Scripts\\GazeManager.cs",
+              "RelativeToolTip": "Assets\\GazeSelector\\Scripts\\GazeManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:18:47.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIElementXR.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\Scripts\\UIElementXR.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIElementXR.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\Scripts\\UIElementXR.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIElementXR.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:48:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraPointerManager.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\Scripts\\CameraPointerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPointerManager.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\Scripts\\CameraPointerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraPointerManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:37:45.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CambiarEscena.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\Scripts\\CambiarEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambiarEscena.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Unity\\p\\Respaldo Prueba\\Assets\\Scripts\\CambiarEscena.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambiarEscena.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:56:41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

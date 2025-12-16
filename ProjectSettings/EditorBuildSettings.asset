@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 68c2d86217a4ff8418ef730cf6675d08
+  - enabled: 0
+    path: Assets/Scenes/AR.unity
+    guid: 03437a4d51b92a14782d83e8eb7375c2
+  - enabled: 1
+    path: Assets/Scenes/Introduccion.unity
+    guid: 1e61c020107e86948abeb6ef0440b54d
+  - enabled: 0
+    path: Assets/Scenes/Marte.unity
+    guid: ff29271c2a220d44e864b0ef093033b4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/EscenaMArteVr/Assets/Scenes/Marte.unity
+    guid: 332619e610d42b94dbb193e422358bae
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bdc22456c0c40f74b8aa77afc0c19e68, type: 2}
