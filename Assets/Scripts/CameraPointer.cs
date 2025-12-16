@@ -1,0 +1,34 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CameraPointer : MonoBehaviour
+{
+    private const float _maxDistance = 10;
+    private GameObject _gazedAtObject = null;
+
+    // Update is called once per frame
+    void Update()
+    {
+        RaycastHit hit;
+        if(Physics.Raycast(transform.position, transform.forward, out hit, _maxDistance))
+        {
+            if(_gazedAtObject != hit.transform.gameObject)
+            {
+                _gazedAtObject?.SendMessage("OnPointerExit");
+                _gazedAtObject = hit.transform.gameObject;
+                _gazedAtObject.SendMessage("OnPointerEnter");
+            }
+        }
+        else
+        {
+            _gazedAtObject?.SendMessage("OnPointerExit");
+            _gazedAtObject = null;
+        }
+
+        if (Google.XR.Cardboard.Api.IsTriggerHeldPressed)
+        {
+            _gazedAtObject?.SendMessage("OnPointerClick");
+        }
+    }
+}
